@@ -7,4 +7,4 @@ Notice that our SVM model performed well from the beginning of the period until 
 ## LR Model
 ![Actual returns vs Strategy returns_2](https://user-images.githubusercontent.com/83678373/135794166-fcbdcdc1-d36b-4560-b7c2-04aa1d154df0.png)
 
-Notice that our SVM model performed well from the beginning of the period until early in 2019. That’s when the actual and predicted returns start to slightly  differ. 
+The above model performed well from the beginning of the period until early in 2020. That’s when the actual and predicted returns start to greatly differ. 
