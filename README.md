@@ -9,7 +9,7 @@ Notice that our SVM model performed well from the beginning of the period until 
 
 The above model performed well from the beginning of the period until early in 2020. That’s when the actual and predicted returns start to greatly differ. 
 
-##------------------------------------------------------
+##        ------------------------------------------------------
 
 
 <img width="1387" alt="Screen Shot 2021-10-03 at 9 32 02 PM" src="https://user-images.githubusercontent.com/83678373/135795156-9a3546fc-0b1d-4885-ac12-13f9ad94b746.png">
